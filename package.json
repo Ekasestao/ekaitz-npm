@@ -1,0 +1,25 @@
+{
+  "name": "ekaitz-npm",
+  "version": "0.1.0",
+  "description": "This module is created by Ekaitz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekasestao/ekaitz-npm.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Ekaitz Campo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ekasestao/ekaitz-npm/issues"
+  },
+  "homepage": "https://github.com/Ekasestao/ekaitz-npm#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
